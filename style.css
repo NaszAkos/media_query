@@ -21,7 +21,7 @@ header{
 main{
     background-color: #a7dc8a;
     width: 1100px;
-       
+    display: flex    
 }
 
 #widget{
@@ -36,8 +36,4 @@ main{
 footer{
     background-color: #b588e7;
 
-}
-
-span{
-    
 }
