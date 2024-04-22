@@ -1,0 +1,43 @@
+#container{
+    padding: 10px;
+    margin: 10px;
+}
+
+header{
+    background-color: #b588e7;
+    padding: 5px;
+    text-align: center;
+    font-size: 150%;
+}
+
+#sidebar{
+    background-color: #e3b957;
+    text-align: center;
+    width: 200px;
+    height: 500px;
+
+}
+
+main{
+    background-color: #a7dc8a;
+    width: 1100px;
+       
+}
+
+#widget{
+    background-color: #eb867c;
+}
+
+#statistics{
+    background-color: #91b7e8;
+
+}
+
+footer{
+    background-color: #b588e7;
+
+}
+
+span{
+    
+}
